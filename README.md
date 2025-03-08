@@ -89,8 +89,8 @@ max_depth: 9, Train Accuracy: 0.9013, Dev Accuracy: 0.7921
 max_depth: 10, Train Accuracy: 0.9112, Dev Accuracy: 0.8034
 Test Set Accuracy (max_depth = 4): 0.7937
 
-![Line Graph of Accuracy vs Max Depth](your_graph_screenshot.png)
-![Decision Tree Visualization](your_tree_screenshot.png)
+![Line Graph of Accuracy vs Max Depth](Decision Tree Visualization.png)
+![Decision Tree Visualization](Line Graph of Accuracy vs Max Depth.png)
 
 (Remember to replace `your_graph_screenshot.png` and `your_tree_screenshot.png` with actual paths to your saved screenshots.)
 
